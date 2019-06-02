@@ -16,13 +16,13 @@ In this project, the PIR Sensor detects any movement in front of it and signals 
 
 
 Components Required:
-Arduino UNO 
-PIR Sensor
-5V Buzzer
-led
-Breadboard 
-Connecting Wires
-Power Supply
+Arduino UNO,
+PIR Sensor,
+5V Buzzer,
+led,
+Breadboard ,
+Connecting Wires,
+Power Supply.
 
 Circuit Design:
 The design of the PIR Motion Sensor using Arduino is very simple. The PIR Sensor Module has three pins: VCC, Digital Out and GND. Connect VCC and GND to +5V and GND respectively. Then connect the Digital Out Pin of the PIR sensor to the digital I/O pin 2 of Arduino.

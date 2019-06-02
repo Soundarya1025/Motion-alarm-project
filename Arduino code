@@ -4,13 +4,10 @@
   when pressing a pushbutton attached to pin 2.
 
   The circuit:
-  - LED attached from pin 13 to ground
-  - Buzzer attached   from pin 13 to ground
+  - LED attached from pin 13 of Arduino to ground
+  - Buzzer attached   from pin 13 of Arduino to ground
   - 1K resistor attached from negative pin of LED to ground
-
- 
-
-  This example code is in the public domain.
+  - Button pin (Data output of PIR sensor)from pin 13 of Arduino to ground.
 */
 
 // constants won't change. They're used here to set pin numbers:
